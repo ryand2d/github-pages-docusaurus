@@ -1,6 +1,6 @@
 # Deploy Docusaurus website to GitHub Pages using GitHub Actions
 
-This repository is an example of deploying a Docusaurus website to GitHub Pages using GitHub Actions.
+This repository is an example of deploying a Docusaurus website to GitHub Pages using GitHub Actions. Watch [walkthrough video](https://www.youtube.com/watch?v=ImSK0nv7KfY) for additional details.
 
 ## Configuring the GitHub repository
 
